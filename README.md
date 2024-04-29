@@ -61,7 +61,7 @@ Gradient clipping is optionally applied to prevent exploding gradients.
 The test function takes an image batch and predicts the mask label (with or without mask) for each image.
 
 
-##### Further Exploration:
+### Further Exploration:
 
 Experiment with different hyperparameters like the number of epochs, learning rate, optimizer, and CNN architecture to potentially improve performance.
 
